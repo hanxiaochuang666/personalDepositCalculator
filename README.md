@@ -1,2 +1,2 @@
 # personalDepositCalculator
-个人存款计算器
+用easyUI写的极简个人存款计算器
